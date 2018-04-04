@@ -1,0 +1,44 @@
+{
+  "career":{
+    "info":"to pursue a challenging career"
+  },
+"education":[
+  {
+    "degree":"SSC",
+    "school":"school name",
+    "data":["2005","80%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"college name",
+    "data":["2007","70%"]
+  },
+  {
+    "degree":"GRADUATION",
+    "school":"college name",
+    "data":["2011","90%"]
+  }
+],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["windows","fedora","ubuntu","redhat"]
+  },
+  {
+    "name":"languages",
+    "info":["c","c++","java","python"]
+  },
+  {
+    "name":"databases",
+    "info":["oracle","mysql","mongoDOB","cybase"]
+  },
+  {
+    "name":"web technologies",
+    "info":["html","css","javascrip"]
+  },
+  {
+  "name":"frameworks",
+  "info":["bootstrap",".net"]
+  }
+]
+}
